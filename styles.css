@@ -1,0 +1,50 @@
+ h1{
+    color: blue;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: blue;
+}
+.down{
+    align-items: center;
+    margin-top: 5%;
+}
+.download{
+    color:white;
+    background-color: tomato;
+    align-items: center;
+}
+.download:hover{
+    color: rgb(236, 220, 217);
+}
+.txt{
+    text-align: center;
+}
+.txt h1{
+    font-size:20px;
+    font-weight: bold;
+    color: black;
+    margin-top: 5%;
+}
+.txt p{
+    margin-top: 3%;
+    color: grey;
+}
+.tt{
+    padding: inherit 25px
+}
+footer{
+ 
+    background: url("./Images/footer.png");
+    background-size: cover;
+    /* height: 50vh; */
+}
+footer .anchor li{
+    list-style: none;
+    margin-bottom: 25px;
+}
+footer .anchor li a{
+    color: white;
+   
+
+
+}
